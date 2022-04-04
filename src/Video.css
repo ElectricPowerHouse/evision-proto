@@ -1,0 +1,10 @@
+.Video {
+  width: 60%;
+  height: auto;
+}
+
+.Video2 {
+  width: 60%;
+  height: auto;
+  border: 5px solid black;
+}
